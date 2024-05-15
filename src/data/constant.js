@@ -11,7 +11,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Sadhi-Srinu/",
     resume:
-      "https://drive.google.com/drive/u/2/home",
+      "hhttps://i.pinimg.com/originals/8e/6b/35/8e6b353e0ac88a595f53e9794f51fa44.jpg",
     linkedin: "https://www.linkedin.com/in/srinu-reddy-72617b268/",
     twitter: "",
     insta: "https://www.instagram.com/s_r_i_n_u_390/",
