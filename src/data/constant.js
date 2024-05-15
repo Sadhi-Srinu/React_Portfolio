@@ -4,14 +4,13 @@ export const Bio = {
       "Full Stack Developer",
       "Python Developer",
       "Data visualizations",                                   
-      "Data Analyst",
       "MERN Stack Developer",
     ],
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Sadhi-Srinu/",
     resume:
-      "https://i.pinimg.com/originals/8e/6b/35/8e6b353e0ac88a595f53e9794f51fa44.jpg",
+      "https://i.pinimg.com/originals/f3/b3/c4/f3b3c4143f9ef1b1d1102edbbca747ee.jpg",
     linkedin: "https://www.linkedin.com/in/srinu-reddy-72617b268/",
     twitter: "",
     insta: "https://www.instagram.com/s_r_i_n_u_390/",
